@@ -1,4 +1,5 @@
-function play(){
-    var muza = new Audio('resources/Go Dj Techno.mp3');
+var muza = new Audio("resources/Go Dj Techno.mp3");
+
+function play() {
     muza.play();
-};
+}
