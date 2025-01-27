@@ -1,4 +1,4 @@
-var muza = new Audio("resources/Go Dj Techno.mp3");
+var muza = new Audio("resources/Gabber.mp3");
 
 function play() {
     muza.play();
